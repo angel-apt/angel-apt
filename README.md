@@ -1,4 +1,4 @@
-<img align="right" width="500" height="500" src="https://c0.klipartz.com/pngpicture/1017/147/gratis-png-banner-web-pagina-web-banner-de-elementos-de-diseno-web-con-estilo.png">
+<img align="right" src="https://www.comunicare.es/wp-content/uploads/2021/02/brief-sitio-web-1.jpg">
 
 
 # Hola, soy Angel Paredes Torres.

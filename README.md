@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @angel-apt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img align="right" width="500" height="500" src="https://c0.klipartz.com/pngpicture/1017/147/gratis-png-banner-web-pagina-web-banner-de-elementos-de-diseno-web-con-estilo.png">
 
-<!---
-angel-apt/angel-apt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# Hola, soy Angel Paredes Torres.
+
+Desarrollador web
+
+## Acerca de mi
+
+...
+
